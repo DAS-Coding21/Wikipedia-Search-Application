@@ -4,3 +4,6 @@ Build a Wikipedia Search Application
             index.html
             style.css
             script.js
+    - Design user interface for searching stored data
+            index.html
+            style.css
